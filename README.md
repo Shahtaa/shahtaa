@@ -1,4 +1,21 @@
 ### Hi there 👋
+# Welcome to My Portfolio!
+
+## About Me
+
+
+## Projects
+
+### [Project Name 1](link_to_project1)
+Short description or bullet points highlighting features and technologies used.
+
+### [Project Name 2](link_to_project2)
+Short description or bullet points highlighting features and technologies used.
+
+## Contact Me
+
+- [Portfolio Website](your_portfolio_website)
+- Email: your_email@example.com
 
 <!--
 **Shahtaa/shahtaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
