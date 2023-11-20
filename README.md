@@ -18,7 +18,7 @@ Short description or bullet points highlighting features and technologies used.
 ## Contact Me
 
 
-- [Portfolio Website](https://www.shahtaa.github.io)
+- [Portfolio Website](https://shahtaa.github.io)
 - Email: your_email@example.com
 
 <!--
