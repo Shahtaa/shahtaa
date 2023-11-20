@@ -12,10 +12,12 @@ Short description or bullet points highlighting features and technologies used.
 ### [Project Name 2](link_to_project2)
 Short description or bullet points highlighting features and technologies used.
 
+### [Project Name 3](link_to_project2)
+Short description or bullet points highlighting features and technologies used.
+
 ## Contact Me
 
-- [Portfolio Website](https://shahtaa.github.io)
-- <a href="[url](https://shahtaa.github.io)">Portfolio Wevsite</a>
+- [Portfolio Website](shahtaa.github.io)
 - Email: your_email@example.com
 
 <!--
