@@ -7,7 +7,7 @@
 ## Projects
 
 ### [React with Vite](https://github.com/Shahtaa/vite-project)
-Short description or bullet points highlighting features and technologies used.
+React + TypeScript + Vite
 
 ### [Java Programming - MOOC.fi](https://github.com/Shahtaa/hbc-java23S)
 Short description or bullet points highlighting features and technologies used.
