@@ -6,7 +6,7 @@
 
 ## Projects
 
-### [Project Name 1](link_to_project1)
+### [React with Vite](https://github.com/Shahtaa/vite-project)
 Short description or bullet points highlighting features and technologies used.
 
 ### [Project Name 2](link_to_project2)
