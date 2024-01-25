@@ -6,9 +6,6 @@
 
 ## Projects
 
-### [React with Vite](https://github.com/Shahtaa/vite-project)
-React + TypeScript + Vite + Bootstrap v5.3.2
-
 ### [Java Programming - MOOC.fi](https://github.com/Shahtaa/hbc-java23S)
 Short description or bullet points highlighting features and technologies used.
 
