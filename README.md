@@ -9,8 +9,8 @@
 ### [Java Programming - MOOC.fi](https://github.com/Shahtaa/hbc-java23S)
 Short description or bullet points highlighting features and technologies used.
 
-### [Project Name 3](link_to_project2)
-Short description or bullet points highlighting features and technologies used.
+### [Full Stack open](https://github.com/Shahtaa/hy-fullstack-part-1)
+Syväsukellus moderniin websovelluskehitykseen
 
 ## Contact Me
 
