@@ -9,7 +9,8 @@ I'm a passionate coder dedicated to crafting dynamic and efficient web applicati
 ### [ToDoApp](https://github.com/Shahtaa/todoapp) ✅
 A functional Todo List application built with React. Users can seamlessly add, complete, and delete tasks, with data management handled via Axios HTTP requests to a JSON server. The interface is designed for optimal user experience, with clean styling using CSS.
 
-### [WeatherApp](https://shahtaa.github.io/WeatherApp/) ⛅
+### [WeatherApp](https://github.com/Shahtaa/WeatherApp) ⛅
+[Link to GitHub Pages](https://shahtaa.github.io/WeatherApp/)
 An application that fetches and displays weather data based on user input. Built using React, Axios, and OpenWeatherMap API, this project demonstrates my ability to integrate external APIs and deliver real-time information in a user-friendly manner.
 
 ### [Full Stack open](https://github.com/Shahtaa/hy-fullstack-part-1) 🌐
