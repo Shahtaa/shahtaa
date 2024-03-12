@@ -1,22 +1,21 @@
-### Hi there 👋
+### Hi there! 👋
 # Welcome to My Portfolio!
 
 ## About Me
-I am a passionate coder who loves to create dynamic and efficient web applications. I specialize in Java and React, and I have solid experience in using these technologies in the development of my projects. I am constantly learning and improving my skills according to the latest trends and best practices. I am an enthusiastic team player, but I also enjoy working independently. I look forward to the opportunity to contribute my expertise and creativity to new challenges and projects!
+I'm a passionate coder dedicated to crafting dynamic and efficient web applications. With expertise in Java and React, I've honed my skills through various projects, constantly staying updated with the latest industry trends and best practices. Whether collaborating with teams or working independently, I thrive on tackling new challenges and contributing my creativity to innovative projects.
 
 ## Projects
 
-
 ### [Java Programming - MOOC.fi](https://github.com/Shahtaa/hbc-java23S)
-Short description or bullet points highlighting features and technologies used.
+A comprehensive course on Java programming offered by MOOC.fi. This project showcases my understanding of Java concepts and best practices.
 
 ### [Full Stack open](https://github.com/Shahtaa/hy-fullstack-part-1)
-Syväsukellus moderniin websovelluskehitykseen
+An immersive dive into modern web application development, covering frontend and backend technologies such as React, Node.js, and MongoDB.
 
 ### [ToDoApp](https://github.com/Shahtaa/todoapp)
+A functional Todo List application built with React. Users can seamlessly add, complete, and delete tasks, with data management handled via Axios HTTP requests to a JSON server. The interface is designed for optimal user experience, with clean styling using CSS.
 
+### [WeatherApp](https://github.com/Shahtaa/WeatherApp)
+An application that fetches and displays weather data based on user input. Built using React, Axios, and OpenWeatherMap API, this project demonstrates my ability to integrate external APIs and deliver real-time information in a user-friendly manner.
 
-This project is a simple Todo List application built with React. It allows users to add new tasks, mark them as completed, and delete tasks. The application fetches and updates todo items from a JSON server using Axios for HTTP requests. Styling is applied using CSS, creating a clean and user-friendly interface.
-
-### [WeatherApp](https://shahtaa.github.io/WeatherApp/)
 ## Contact Me
