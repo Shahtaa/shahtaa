@@ -6,6 +6,10 @@ I'm a passionate coder dedicated to crafting dynamic and efficient web applicati
 
 ## React Projects 
 
+### [GitHub User Search](https://github.com/Shahtaa/github-user-search-app) 🔍
+[GitHub User Search - GitHub Pages](https://shahtaa.github.io/github-user-search-app/)
+A GitHub User Search application built with React and Axios. Users can search for GitHub users by their username and view their profiles. The application leverages the GitHub API to fetch user data and provides a user-friendly interface for displaying it.
+
 ### [ToDoApp](https://github.com/Shahtaa/todoapp) ✅
 A functional Todo List application built with React. Users can seamlessly add, complete, and delete tasks, with data management handled via Axios HTTP requests to a JSON server. The interface is designed for optimal user experience, with clean styling using CSS.
 
