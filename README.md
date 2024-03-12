@@ -18,5 +18,5 @@ Syväsukellus moderniin websovelluskehitykseen
 
 This project is a simple Todo List application built with React. It allows users to add new tasks, mark them as completed, and delete tasks. The application fetches and updates todo items from a JSON server using Axios for HTTP requests. Styling is applied using CSS, creating a clean and user-friendly interface.
 
-### [WeatherApp](https://github.com/Shahtaa/WeatherApp)
+### [WeatherApp](https://shahtaa.github.io/WeatherApp/)
 ## Contact Me
