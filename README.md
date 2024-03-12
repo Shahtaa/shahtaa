@@ -22,4 +22,7 @@ An application that fetches and displays weather data based on user input. Built
 ### [Full Stack open](https://github.com/Shahtaa/hy-fullstack-part-1)
 An immersive dive into modern web application development, covering frontend and backend technologies such as React, Node.js, and MongoDB.
 
+## Spring Boot application
+A Spring Boot application that provides a platform for managing content items.
+### [demo](https://github.com/Shahtaa/demo)
 ## Contact Me
