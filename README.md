@@ -2,9 +2,10 @@
 # Welcome to My Portfolio!
 
 ## About Me
-
+I am a passionate coder who loves to create dynamic and efficient web applications. I specialize in Java and React, and I have solid experience in using these technologies in the development of my projects. I am constantly learning and improving my skills according to the latest trends and best practices. I am an enthusiastic team player, but I also enjoy working independently. I look forward to the opportunity to contribute my expertise and creativity to new challenges and projects!
 
 ## Projects
+
 
 ### [Java Programming - MOOC.fi](https://github.com/Shahtaa/hbc-java23S)
 Short description or bullet points highlighting features and technologies used.
@@ -13,25 +14,9 @@ Short description or bullet points highlighting features and technologies used.
 Syväsukellus moderniin websovelluskehitykseen
 
 ### [ToDoApp](https://github.com/Shahtaa/todoapp)
+
+
 This project is a simple Todo List application built with React. It allows users to add new tasks, mark them as completed, and delete tasks. The application fetches and updates todo items from a JSON server using Axios for HTTP requests. Styling is applied using CSS, creating a clean and user-friendly interface.
 
+### [WeatherApp](https://github.com/Shahtaa/WeatherApp)
 ## Contact Me
-
-
-- [Portfolio Website](https://shahtaa.github.io)
-- Email: your_email@example.com
-
-<!--
-**Shahtaa/shahtaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
