@@ -17,6 +17,9 @@ A functional Todo List application built with React. Users can seamlessly add, c
 [WeatherApp - GitHub Pages](https://shahtaa.github.io/WeatherApp/)
 An application built with React, Axios, and the OpenWeatherMap API to fetch and display weather data based on user input. This project showcases my ability to integrate external APIs and deliver real-time information in a user-friendly manner.
 
+### [Expense Tracker](https://github.com/Shahtaa/expense-tracker) 💸
+[Expense Tracker - GitHub Pages](https://shahtaa.github.io/expense-tracker/)
+An application to help users track their expenses, built with React and styled with CSS. Users can add, categorize, and delete expenses, providing hands-on experience with form handling, state management, and conditional rendering.
 
 ### [Full Stack open](https://github.com/Shahtaa/hy-fullstack-part-1) 🌐
 An immersive dive into modern web application development, covering frontend and backend technologies such as React, Node.js, and MongoDB.
