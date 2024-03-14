@@ -21,7 +21,8 @@ An application built with React, Axios, and the OpenWeatherMap API to fetch and 
 [Expense Tracker - GitHub Pages](https://shahtaa.github.io/expense-tracker/)
 An application to help users track their expenses, built with React and styled with CSS. Users can add, categorize, and delete expenses, providing hands-on experience with form handling, state management, and conditional rendering.
 
-### [Password Generator](#) 🔐
+### [Password Generator](https://github.com/Shahtaa/password-generator) 🔐
+[Password Generator - GitHub Pages](https://shahtaa.github.io/password-generator/)
 A secure password generator application built with React. Users can specify the length of the password and generate strong, random passwords for enhanced security.
 
 ### [Full Stack open](https://github.com/Shahtaa/hy-fullstack-part-1) 🌐
