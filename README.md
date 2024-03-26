@@ -40,10 +40,10 @@ A comprehensive course on Java programming offered by MOOC.fi. This project show
 ## Additional Repositories
 
 ### [javascript-ohjelmointi](https://github.com/Shahtaa/javascript-ohjelmointi) 📚
-A repository containing projects and exercises related to JavaScript programming.
+A repository containing projects and exercises related to JavaScript programming. This JavaScript repository comprises packages covering essential web development concepts such as DOM manipulation, image gallery creation, dynamic content updates, and JSON data handling.
 
 ### [html5-ja-css3](https://github.com/Shahtaa/html5-ja-css3) 🎨
-A repository featuring projects and resources focusing on HTML5 and CSS3 development.
+This repository offers a diverse collection of exercises and resources for HTML5 and CSS3 web development, including practical exercise materials and examples covering font styling, the use of semantic HTML tags, and responsive design techniques. Additionally, it provides advanced exercises for mastering the Flexbox layout model and includes projects such as designing and implementing a lemon-themed cafe website.
 
 ## Contact Me 📧
 Feel free to reach out to me via email at [example@example.com](mailto:example@example.com). Let's connect and discuss exciting opportunities!
