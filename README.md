@@ -1,10 +1,10 @@
-### Hi there! 👋
-# Welcome to My Portfolio! 🎉
+### <span style="color:blue">Hi there! 👋</span>
+# <span style="color:green">Welcome to My Portfolio! 🎉</span>
 
-## About Me 💼
+## <span style="color:orange">About Me 💼</span>
 I'm a passionate coder dedicated to crafting dynamic and efficient web applications. With expertise in Java and React, I've honed my skills through various projects, constantly staying updated with the latest industry trends and best practices. Whether collaborating with teams or working independently, I thrive on tackling new challenges and contributing my creativity to innovative projects.
 
-## React Projects 
+## <span style="color:purple">React Projects</span>
 
 ### [GitHub User Search](https://github.com/Shahtaa/github-user-search-app) 🔍
 [GitHub User Search - GitHub Pages](https://shahtaa.github.io/github-user-search-app/)
@@ -28,11 +28,11 @@ A secure password generator application built with React. Users can specify the 
 ### [Full Stack open](https://github.com/Shahtaa/hy-fullstack-part-1) 🌐
 An immersive dive into modern web application development, covering frontend and backend technologies such as React, Node.js, and MongoDB.
 
-## Spring Boot application
+## <span style="color:red">Spring Boot application</span>
 A Spring Boot application that provides a platform for managing content items.
 ### [demo](https://github.com/Shahtaa/demo) 🚀
 
-## Java Mooc 
+## <span style="color:brown">Java Mooc</span>
 
 ### [Java Programming - MOOC.fi](https://github.com/Shahtaa/hbc-java23S) ☕
 A comprehensive course on Java programming offered by MOOC.fi. This project showcases my understanding of Java concepts and best practices.
@@ -45,5 +45,5 @@ A repository containing projects and exercises related to JavaScript programming
 ### [html5-ja-css3](https://github.com/Shahtaa/html5-ja-css3) 🎨
 A repository featuring projects and resources focusing on HTML5 and CSS3 development.
 
-## Contact Me 📧
+## <span style="color:blue">Contact Me 📧</span>
 Feel free to reach out to me via email at [example@example.com](mailto:example@example.com). Let's connect and discuss exciting opportunities!
