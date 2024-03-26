@@ -37,5 +37,13 @@ A Spring Boot application that provides a platform for managing content items.
 ### [Java Programming - MOOC.fi](https://github.com/Shahtaa/hbc-java23S) ☕
 A comprehensive course on Java programming offered by MOOC.fi. This project showcases my understanding of Java concepts and best practices.
 
+## Additional Repositories
+
+### [javascript-ohjelmointi](https://github.com/Shahtaa/javascript-ohjelmointi) 📚
+A repository containing projects and exercises related to JavaScript programming.
+
+### [html5-ja-css3](https://github.com/Shahtaa/html5-ja-css3) 🎨
+A repository featuring projects and resources focusing on HTML5 and CSS3 development.
+
 ## Contact Me 📧
 Feel free to reach out to me via email at [example@example.com](mailto:example@example.com). Let's connect and discuss exciting opportunities!
