@@ -31,6 +31,7 @@ An immersive dive into modern web application development, covering frontend and
 ## Spring Boot application
 A Spring Boot application that provides a platform for managing content items.
 ### [demo](https://github.com/Shahtaa/demo) 🚀
+### [Kahvikauppa](https://github.com/Shahtaa/kahvikauppa) ☕
 
 ## Java Mooc 
 
