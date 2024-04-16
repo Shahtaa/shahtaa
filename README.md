@@ -53,5 +53,5 @@ Projects and exercises related to JavaScript programming.
 ### [HTML5 and CSS3](https://github.com/Shahtaa/html5-ja-css3) 🎨
 Exercises and resources for HTML5 and CSS3 web development.
 
-## Contact Me 📧
-Feel free to reach out via email at [example@example.com](mailto:example@example.com). Let's connect and discuss exciting opportunities!
+## Telegram 📱
+Feel free to reach out via Telegram at [@](https://t.me). Let's connect and discuss exciting opportunities!
