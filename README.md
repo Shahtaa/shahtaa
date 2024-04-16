@@ -12,7 +12,7 @@ A Spring Boot application for managing content items.
 ### [Kahvikauppa](https://github.com/Shahtaa/kahvikauppa) ☕
 Another Spring Boot application for managing a coffee shop.
 
-## React Projects 🔧
+## React Projects ⚛️
 
 ### [GitHub User Search](https://github.com/Shahtaa/github-user-search-app) 🔍
 [GitHub Pages](https://shahtaa.github.io/github-user-search-app/)
@@ -40,7 +40,7 @@ A secure password generator built with React.
 ### [Full Stack open](https://github.com/Shahtaa/hy-fullstack-part-1) 🌐
 An immersive dive into modern web development, covering React, Node.js, and MongoDB.
 
-## Java Mooc 📚
+## Java Mooc ☕
 
 ### [Java Programming - MOOC.fi](https://github.com/Shahtaa/hbc-java23S) ☕
 A comprehensive course on Java programming offered by MOOC.fi.
