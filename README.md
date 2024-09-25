@@ -14,6 +14,15 @@ Another Spring Boot application for managing a coffee shop.
 
 ## React Projects ⚛️
 
+#### [QR code Generator](https://github.com/shahtaa/wifi-qr-generator) 📱
+[GitHub Pages](https://shahtaa.github.io/wifi-qr-generator/)
+
+A user-friendly QR code generator built with React.
+
+### [Password Generator](https://github.com/Shahtaa/password-generator) 🔐
+[GitHub Pages](https://shahtaa.github.io/password-generator/)
+
+A secure password generator built with React.
 ### [GitHub User Search](https://github.com/Shahtaa/github-user-search-app) 🔍
 [GitHub Pages](https://shahtaa.github.io/github-user-search-app/)
 
@@ -31,11 +40,6 @@ An app built with React and Axios to fetch and display weather data based on use
 [GitHub Pages](https://shahtaa.github.io/expense-tracker/)
 
 An app to help users track expenses, built with React and styled with CSS.
-
-### [Password Generator](https://github.com/Shahtaa/password-generator) 🔐
-[GitHub Pages](https://shahtaa.github.io/password-generator/)
-
-A secure password generator built with React.
 
 ### [Full Stack open](https://github.com/Shahtaa/hy-fullstack-part-1) 🌐
 An immersive dive into modern web development, covering React, Node.js, and MongoDB.
