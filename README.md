@@ -4,14 +4,6 @@
 ## About Me 💼
 I'm a passionate coder 👨‍💻 dedicated to crafting efficient web applications. With expertise in Java ☕ and React ⚛️, I thrive on tackling new challenges and contributing creativity to innovative projects.
 
-## Spring Boot Projects 🚀
-
-### [Demo](https://github.com/Shahtaa/demo) 🏗️
-A Spring Boot application for managing content items.
-
-### [Kahvikauppa](https://github.com/Shahtaa/kahvikauppa) ☕
-Another Spring Boot application for managing a coffee shop.
-
 ## React Projects ⚛️
 
 #### [QR code Generator](https://github.com/shahtaa/wifi-qr-generator) 📱
@@ -40,6 +32,13 @@ An app built with React and Axios to fetch and display weather data based on use
 [GitHub Pages](https://shahtaa.github.io/expense-tracker/)
 
 An app to help users track expenses, built with React and styled with CSS.
+## Spring Boot Projects 🚀
+
+### [Demo](https://github.com/Shahtaa/demo) 🏗️
+A Spring Boot application for managing content items.
+
+### [Kahvikauppa](https://github.com/Shahtaa/kahvikauppa) ☕
+Another Spring Boot application for managing a coffee shop.
 
 ### [Full Stack open](https://github.com/Shahtaa/hy-fullstack-part-1) 🌐
 An immersive dive into modern web development, covering React, Node.js, and MongoDB.
