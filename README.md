@@ -23,14 +23,6 @@ A GitHub User Search application built with React and Axios. Users can search fo
 ### [ToDoApp](https://github.com/Shahtaa/todoapp) ✅
 A functional Todo List application built with React. Seamlessly add, complete, and delete tasks.
 
-### [WeatherApp](https://github.com/Shahtaa/WeatherApp) ⛅
-[GitHub Pages](https://shahtaa.github.io/WeatherApp/)
-
-An app built with React and Axios to fetch and display weather data based on user input.
-
-### [Expense Tracker](https://github.com/Shahtaa/expense-tracker) 💸
-[GitHub Pages](https://shahtaa.github.io/expense-tracker/)
-
 An app to help users track expenses, built with React and styled with CSS.
 ## Spring Boot Projects 🚀
 
