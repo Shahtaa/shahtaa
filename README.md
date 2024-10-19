@@ -6,6 +6,12 @@ I'm a passionate coder 👨‍💻 dedicated to crafting efficient web applicati
 
 ---
 
+### HTML/CSS/JAVASCRIPT 📦
+
+#### [My To-Do List](https://shahtaa.github.io/myToDoList/) 📝
+- **Live Demo:** [GitHub Pages](https://shahtaa.github.io/myToDoList/)
+- A simple and efficient To-Do List application to manage your tasks.
+
 ### React Projects ⚛️
 
 #### [QR Code Generator](https://github.com/shahtaa/wifi-qr-generator) 📱
@@ -39,13 +45,6 @@ I'm a passionate coder 👨‍💻 dedicated to crafting efficient web applicati
 
 ---
 
-### Java MOOC ☕
-
-#### [Java Programming - MOOC.fi](https://github.com/Shahtaa/hbc-java23S) ☕
-- A comprehensive course on Java programming offered by MOOC.fi.
-
----
-
 ### Additional Repositories 📦
 
 #### [JavaScript Programming](https://github.com/Shahtaa/javascript-ohjelmointi) 📚
@@ -53,6 +52,13 @@ I'm a passionate coder 👨‍💻 dedicated to crafting efficient web applicati
 
 #### [HTML5 and CSS3](https://github.com/Shahtaa/html5-ja-css3) 🎨
 - Exercises and resources for HTML5 and CSS3 web development.
+
+---
+
+### Java MOOC ☕
+
+#### [Java Programming - MOOC.fi](https://github.com/Shahtaa/hbc-java23S) ☕
+- A comprehensive course on Java programming offered by MOOC.fi.
 
 ---
 
@@ -66,5 +72,3 @@ Feel free to reach out via Telegram at [@yourusername](https://t.me/yourusername
 
 #### [Zero5 Notes Backend](https://zero5-notes-backend.onrender.com)
 - A backend service for the Zero5 Notes application.
-
----
