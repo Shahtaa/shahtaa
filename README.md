@@ -1,10 +1,13 @@
 # Hi there! 👋
+
 ## Welcome to My Portfolio! 🎉
+Check out my portfolio here: [My Portfolio](https://shahtaa.github.io/my-portfolio)
 
 ### About Me 💼
 I'm a passionate coder 👨‍💻 dedicated to crafting efficient web applications. With expertise in **Java** ☕ and **React** ⚛️, I thrive on tackling new challenges and contributing creativity to innovative projects.
 
 ---
+--
 
 ### HTML/CSS/JAVASCRIPT 📦
 
