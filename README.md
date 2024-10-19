@@ -8,7 +8,7 @@ I'm a passionate coder 👨‍💻 dedicated to crafting efficient web applicati
 
 ### HTML/CSS/JAVASCRIPT 📦
 
-#### [My To-Do List](https://shahtaa.github.io/myToDoList/) 📝
+#### [My To-Do List](https://github.com/shahtaa/myToDoList) 📝
 - **Live Demo:** [GitHub Pages](https://shahtaa.github.io/myToDoList/)
 - A simple and efficient To-Do List application to manage your tasks.
 
