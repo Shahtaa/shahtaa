@@ -16,19 +16,20 @@ I'm a passionate coder 👨‍💻 dedicated to crafting efficient web applicati
 
 #### [QR Code Generator](https://github.com/shahtaa/wifi-qr-generator) 📱
 - **Live Demo:** [GitHub Pages](https://shahtaa.github.io/wifi-qr-generator/)
-- A user-friendly QR code generator built with React.
+- A user-friendly QR code generator built with **React** and **TypeScript**.
 
 #### [Password Generator](https://github.com/Shahtaa/password-generator) 🔐
 - **Live Demo:** [GitHub Pages](https://shahtaa.github.io/password-generator/)
-- A secure password generator built with React.
+- A secure password generator built with **React** and **TypeScript**.
 
 #### [GitHub User Search](https://github.com/Shahtaa/github-user-search-app) 🔍
 - **Live Demo:** [GitHub Pages](https://shahtaa.github.io/github-user-search-app/)
-- A GitHub User Search application built with React and Axios. Users can search for GitHub users and view profiles.
+- A GitHub User Search application built with **React** and **JavaScript**. Users can search for GitHub users and view profiles.
 
 #### [ToDoApp](https://github.com/Shahtaa/todoapp) ✅
 - **Live Demo:** [GitHub Pages](https://shahtaa.github.io/todoapp/)
-- A functional Todo List application built with React. Seamlessly add, complete, and delete tasks.
+- A functional Todo List application built with **React** and **JavaScript**. Seamlessly add, complete, and delete tasks.
+
 
 ---
 
