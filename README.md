@@ -4,11 +4,15 @@
 Check out my portfolio here: [My Portfolio](https://shahtaa.github.io/my-portfolio)
 
 ### About Me 💼
-I'm a full-stack developer specializing in modern web technologies like **React** ⚛️, **JavaScript** 📜, and **Spring Boot** 🚀.  
-I enjoy creating interactive, user-friendly applications 💻 and building efficient backend solutions 🛠️.  
-I've developed a variety of projects, such as the **[QR Code Generator](https://shahtaa.github.io/wifi-qr-generator/)** 📱, **[Password Generator](https://shahtaa.github.io/password-generator/)** 🔐, and **[ToDoApp](https://shahtaa.github.io/todoapp/)** ✅, and work across both frontend and backend development.  
-Always eager to learn 📚 and contribute to exciting projects! 🌟
+Here’s your "About Me" section with the project links included, along with the emojis:
 
+---
+
+### About Me 💼  
+I’m a **software developer** focused on modern web technologies like **React** ⚛️, **JavaScript** 📜, and **Spring Boot** 🚀.  
+I enjoy building interactive, user-friendly **full-stack applications** 💻 and creating efficient **backend solutions** 🛠️ using **MongoDB** 🍃 and **PostgreSQL** 📊.  
+I’ve worked on various projects, including the **[QR Code Generator](https://shahtaa.github.io/wifi-qr-generator/)** 📱, **[Password Generator](https://shahtaa.github.io/password-generator/)** 🔐, and **[ToDoApp](https://shahtaa.github.io/todoapp/)** ✅, showcasing my skills in both **frontend** 🎨 and **backend** 🔧 development.  
+I am always eager to learn 📚 and collaborate on exciting projects! 🌟
 
 ---
 
