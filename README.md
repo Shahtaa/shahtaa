@@ -11,7 +11,8 @@ Here’s your "About Me" section with the project links included, along with the
 ### About Me 💼  
 I’m a **software developer** focused on modern web technologies like **React** ⚛️, **JavaScript** 📜, and **Spring Boot** 🚀.  
 I enjoy building interactive, user-friendly **full-stack applications** 💻 and creating efficient **backend solutions** 🛠️ using **MongoDB** 🍃 and **PostgreSQL** 📊.  
-I’ve worked on various projects, including the **[QR Code Generator](https://shahtaa.github.io/wifi-qr-generator/)** 📱, **[Password Generator](https://shahtaa.github.io/password-generator/)** 🔐, and **[ToDoApp](https://shahtaa.github.io/todoapp/)** ✅, showcasing my skills in both **frontend** 🎨 and **backend** 🔧 development.  
+I’ve developed various projects, including the **[QR Code Generator](https://shahtaa.github.io/wifi-qr-generator/)** 📱, **[Password Generator](https://shahtaa.github.io/password-generator/)** 🔐, and **[ToDoApp](https://shahtaa.github.io/todoapp/)** ✅, showcasing my skills in frontend development 🎨.  
+Additionally, I have worked on backend applications like **[Demo](#)** 🏗️, a Spring Boot application for managing content items, and **[Kahvikauppa](#)** ☕, a Spring Boot application for managing a coffee shop.  
 I am always eager to learn 📚 and collaborate on exciting projects! 🌟
 
 ---
