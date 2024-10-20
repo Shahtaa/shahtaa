@@ -4,12 +4,21 @@
 Check out my portfolio here: [My Portfolio](https://shahtaa.github.io/my-portfolio)
 
 ### About Me 💼
-I'm a passionate coder 👨‍💻 dedicated to crafting efficient web applications. With expertise in **Java** ☕ and **React** ⚛️, I thrive on tackling new challenges and contributing creativity to innovative projects.
+I'm a full-stack developer specializing in modern web technologies like **React** ⚛️, **JavaScript** 📜, and **Spring Boot** 🚀.  
+I enjoy creating interactive, user-friendly applications 💻 and building efficient backend solutions 🛠️.  
+I've developed a variety of projects, such as the **QR Code Generator** 📱 and **ToDoApp** ✅, and work across both frontend and backend development.  
+Always eager to learn 📚 and contribute to exciting projects! 🌟
+
 
 ---
---
 
-### HTML/CSS/JAVASCRIPT 📦
+### HTML/CSS/JAVASCRIPT BASICS 📦
+
+#### [HTML5 and CSS3](https://github.com/Shahtaa/html5-ja-css3) 🎨
+- Exercises and resources for HTML5 and CSS3 web development.
+
+#### [JavaScript Programming](https://github.com/Shahtaa/javascript-ohjelmointi) 📚
+- Projects and exercises related to JavaScript programming.
 
 #### [My To-Do List](https://github.com/shahtaa/myToDoList) 📝
 - **Live Demo:** [GitHub Pages](https://shahtaa.github.io/myToDoList/)
@@ -33,7 +42,6 @@ I'm a passionate coder 👨‍💻 dedicated to crafting efficient web applicati
 - **Live Demo:** [GitHub Pages](https://shahtaa.github.io/todoapp/)
 - A functional Todo List application built with **React** and **JavaScript**. Seamlessly add, complete, and delete tasks.
 
-
 ---
 
 ### Spring Boot Projects 🚀
@@ -44,35 +52,18 @@ I'm a passionate coder 👨‍💻 dedicated to crafting efficient web applicati
 #### [Kahvikauppa](https://github.com/Shahtaa/kahvikauppa) ☕
 - A Spring Boot application for managing a coffee shop.
 
-#### [Full Stack Open](https://github.com/Shahtaa/hy-fullstack-part-1) 🌐
-- An immersive dive into modern web development, covering React, Node.js, and MongoDB.
-
 ---
 
 ### Additional Repositories 📦
 
-#### [JavaScript Programming](https://github.com/Shahtaa/javascript-ohjelmointi) 📚
-- Projects and exercises related to JavaScript programming.
-
-#### [HTML5 and CSS3](https://github.com/Shahtaa/html5-ja-css3) 🎨
-- Exercises and resources for HTML5 and CSS3 web development.
-
----
-
-### Java MOOC ☕
-
 #### [Java Programming - MOOC.fi](https://github.com/Shahtaa/hbc-java23S) ☕
 - A comprehensive course on Java programming offered by MOOC.fi.
+
+#### [Full Stack Open](https://github.com/Shahtaa/hy-fullstack-part-1) 🌐
+- An immersive dive into modern web development, covering React, Node.js, and MongoDB.
 
 ---
 
 ### Connect with Me 📱
 
 Feel free to reach out via Telegram at [@yourusername](https://t.me/yourusername). Let's connect and discuss exciting opportunities!
-
----
-
-### Backend Link 🌐
-
-#### [Zero5 Notes Backend](https://zero5-notes-backend.onrender.com)
-- A backend service for the Zero5 Notes application.
