@@ -6,7 +6,7 @@ Check out my portfolio here: [My Portfolio](https://shahtaa.github.io/my-portfol
 ### About Me 💼
 I'm a full-stack developer specializing in modern web technologies like **React** ⚛️, **JavaScript** 📜, and **Spring Boot** 🚀.  
 I enjoy creating interactive, user-friendly applications 💻 and building efficient backend solutions 🛠️.  
-I've developed a variety of projects, such as the **QR Code Generator** 📱 and **ToDoApp** ✅, and work across both frontend and backend development.  
+I've developed a variety of projects, such as the **[QR Code Generator](https://github.com/shahtaa/wifi-qr-generator)** 📱 and **[ToDoApp](https://github.com/Shahtaa/todoapp)** ✅, and work across both frontend and backend development.  
 Always eager to learn 📚 and contribute to exciting projects! 🌟
 
 
