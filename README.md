@@ -3,11 +3,6 @@
 ## Welcome to My Portfolio! 🎉
 Check out my portfolio here: [My Portfolio](https://shahtaa.github.io/my-portfolio)
 
-### About Me 💼
-Here’s your "About Me" section with the project links included, along with the emojis:
-
----
-
 ### About Me 💼  
 I’m a **software developer** focused on modern web technologies like **React** ⚛️, **JavaScript** 📜, and **Spring Boot** 🚀.  
 I enjoy building interactive, user-friendly **full-stack applications** 💻 and creating efficient **backend solutions** 🛠️ using **MongoDB** 🍃 and **PostgreSQL** 📊.  
