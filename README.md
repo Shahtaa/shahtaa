@@ -11,7 +11,6 @@ Additionally, I have worked on backend applications like **[Demo](#)** 🏗️, 
 I am always eager to learn 📚 and collaborate on exciting projects! 🌟
 
 ---
-
 ### HTML/CSS/JAVASCRIPT BASICS 📦
 
 #### [HTML5 and CSS3](https://github.com/Shahtaa/html5-ja-css3) 🎨
@@ -23,6 +22,10 @@ I am always eager to learn 📚 and collaborate on exciting projects! 🌟
 #### [My To-Do List](https://github.com/shahtaa/myToDoList) 📝
 - **Live Demo:** [GitHub Pages](https://shahtaa.github.io/myToDoList/)
 - A simple and efficient To-Do List application to manage your tasks.
+
+#### [Lunch Sign](https://github.com/shahtaa/LunchSign) 🍽️
+- **Live Demo:** [GitHub Pages](https://shahtaa.github.io/LunchSign/)
+- A web application for managing lunch breaks, allowing users to set departments and return times.
 
 ### React Projects ⚛️
 
