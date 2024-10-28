@@ -27,6 +27,8 @@ I am always eager to learn 📚 and collaborate on exciting projects! 🌟
 - **Live Demo:** [GitHub Pages](https://shahtaa.github.io/LunchSign/)
 - A web application for managing lunch breaks, allowing users to set departments and return times.
 
+---
+
 ### React Projects ⚛️
 
 #### [QR Code Generator](https://github.com/shahtaa/wifi-qr-generator) 📱
